@@ -1,0 +1,30 @@
+/*
+ * Net Types.h
+ *
+ *  Created on: 12.04.2010
+ *      Author: dgrat
+ */
+ 
+#ifndef NETTYPES_H_
+#define NETTYPES_H_
+
+
+#include "base/Edge.h"
+
+#include "base/AbsNeuron.h"
+#include "base/AbsLayer.h"
+#include "base/AbsNet.h"
+
+#include "BPNeuron.h"
+#include "BPLayer.h"
+#include "BPNet.h"
+
+#include "HFNeuron.h"
+#include "HFLayer.h"
+#include "HFNet.h"
+
+#include "SOMNeuron.h"
+#include "SOMLayer.h"
+#include "SOMNet.h"
+
+#endif /* NETTYPES_H_ */
